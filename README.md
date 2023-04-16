@@ -5,3 +5,7 @@ Good use of color and contrast can enhance the readability of interfaces. Howeve
 > Compatible with Chrome based browsers. Tested on Brave and Chrome.
 
 Checkout this [DataCamp notebook](https://app.datacamp.com/workspace/w/5b0ad017-201c-490c-b40e-5169e02cad9e) for more information.
+
+## Example
+
+![Screenshot](/screenshot.png)
