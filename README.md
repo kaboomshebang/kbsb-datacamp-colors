@@ -6,6 +6,10 @@ Good use of color and contrast can enhance the readability of interfaces. Howeve
 
 Checkout this [DataCamp notebook](https://app.datacamp.com/workspace/w/5b0ad017-201c-490c-b40e-5169e02cad9e) for more information.
 
+## Installation
+
+[Instructions](/datacamp-color-extension/README.md)
+
 ## Preview
 
 The new style makes a clear distinction between activated and non-activated cells. This is achieved by using a thicker and darker border to provide a clear visual separation. This helps to improve the keyboard navigation. The use of different background colors for code, output, and markdown cells helps to enhance the readability of the notebook.
