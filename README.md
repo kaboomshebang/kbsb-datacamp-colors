@@ -15,3 +15,10 @@ Checkout this [DataCamp notebook](https://app.datacamp.com/workspace/w/5b0ad017-
 The new style makes a clear distinction between activated and non-activated cells. This is achieved by using a thicker and darker border to provide a clear visual separation. This helps to improve the keyboard navigation. The use of different background colors for code, output, and markdown cells helps to enhance the readability of the notebook.
 
 ![Screenshot](/screenshot.png)
+
+## Alternatives
+
+Stylus:
+- https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+- https://github.com/openstyles/stylus
+- https://add0n.com/stylus.html
